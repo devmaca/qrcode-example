@@ -1,0 +1,14 @@
+{
+  "name": "qrcodenodej",
+  "version": "1.0.0",
+  "description": "qrcode prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mibuel ocndoir",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.1"
+  }
+}
